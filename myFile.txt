@@ -1,0 +1,6 @@
+Procedure myProced
+    declare myVar1 : entier;
+    declare myVar2 : entier;
+    myVar1 = myVar1 + 10.0 + (10+10)+ 20 * 20.025;
+    myVar1 = myVar1 + 10
+Fin_Procedure myProced
